@@ -1,6 +1,6 @@
-; RISC-V Gradient Descent Linear Regression
-; Copyright (C) 2026  Alan Gomez Pasillas
-; SPDX-License-Identifier: GPL-2.0
+# RISC-V Gradient Descent Linear Regression
+# Copyright (C) 2026  Alan Gomez Pasillas
+# SPDX-License-Identifier: GPL-2.0
 
 .section .data
 
