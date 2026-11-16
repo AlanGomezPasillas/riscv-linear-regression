@@ -7,7 +7,7 @@
 
 epochs: .quad 0
 
-.include "dataset.s"
+.include "data/dataset.s"
 # variables .quad
 # n_samples .quad
 # x0_data   .double

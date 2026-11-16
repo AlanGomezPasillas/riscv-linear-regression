@@ -1,0 +1,3 @@
+src/rv64g/*.o
+data/dataset.s
+linear_regression
