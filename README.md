@@ -1,5 +1,12 @@
 # RISC-V Assembly Linear Regression
 
+[![License: GPL-2.0](https://img.shields.io/badge/License-GPL--2.0-blue.svg)](LICENSE)
+![Language](https://img.shields.io/badge/Language-RISC--V%20Assembly-orange)
+![Architecture](https://img.shields.io/badge/Architecture-RV64G-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-yellow)
+[![Last Commit](https://img.shields.io/github/last-commit/AlanGomezPasillas/riscv-linear-regression)](https://github.com/AlanGomezPasillas/riscv-linear-regression/commits)
+[![Stars](https://img.shields.io/github/stars/AlanGomezPasillas/riscv-linear-regression)](https://github.com/AlanGomezPasillas/riscv-linear-regression/stargazers)
+
 Implementation of **Multiple Linear Regression** trained using
 **Forward Finite Difference Gradient Descent**, written entirely in
 **RISC-V 64-bit Assembly** and targeting Linux-based systems.
