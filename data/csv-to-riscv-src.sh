@@ -33,8 +33,9 @@ while IFS= read -r line; do
     ((n_rows++))
 done < "$1"
 
-echo "variables: .quad $n_cols"
-echo "n_samples: .quad $n_rows"
+echo ".equ N_FEATURES, $(($n_cols-1))"
+echo ".equ N_SAMPLES, $n_rows"
+echo ".equ N_PARAMS, $n_cols"
 
 for ((i=0; i<n_cols; i++)); do
     name=""
