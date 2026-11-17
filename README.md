@@ -280,6 +280,10 @@ floating-point implementation.
 
 - [x] RV64G implementation.
 - [x] CSV-to-Assembly conversion.
+- [x] Prediction Subroutine.
+- [x] Prediction Subroutine Tests.
+- [ ] Add GitHub Actions for CI/CD.
+- [ ] Loss Function (MSE).
 - [ ] Forward Finite Difference.
 - [ ] Gradient Descent.
 - [ ] Fixed-point Q16 implementation.
